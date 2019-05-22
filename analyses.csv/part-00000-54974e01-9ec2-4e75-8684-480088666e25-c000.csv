@@ -1,0 +1,299 @@
+borough,year,count(value)
+Brent,2010,16296
+Islington,2015,9214
+Lambeth,2016,11488
+Kensington and Chelsea,2016,9018
+Kingston upon Thames,2009,7890
+Camden,2012,12044
+Hackney,2008,9521
+Lambeth,2015,11579
+Kingston upon Thames,2014,7858
+Kensington and Chelsea,2011,8920
+Harrow,2010,11515
+Haringey,2009,9098
+Hounslow,2013,8933
+Sutton,2010,7983
+Brent,2016,16245
+Barnet,2013,19060
+Camden,2010,11901
+Sutton,2014,8134
+Lambeth,2012,11337
+Southwark,2012,12564
+Redbridge,2014,11375
+Southwark,2011,12492
+Hillingdon,2015,11935
+Newham,2009,11960
+Enfield,2010,12243
+Barnet,2015,19003
+Greenwich,2010,9383
+Barking and Dagenham,2015,9534
+Barking and Dagenham,2012,9332
+City of London,2010,334
+Westminster,2012,10094
+Westminster,2011,10156
+Croydon,2010,14241
+Brent,2008,16257
+Harrow,2011,11603
+Haringey,2015,9185
+Lewisham,2014,11020
+Richmond upon Thames,2013,9256
+City of London,2013,317
+Lambeth,2010,11695
+Greenwich,2013,9218
+Havering,2011,8820
+Barnet,2009,18817
+Croydon,2015,14400
+Newham,2013,11886
+Bromley,2008,12572
+Tower Hamlets,2013,12313
+Westminster,2015,10362
+Bexley,2012,12711
+Hillingdon,2014,12002
+Lambeth,2013,11710
+Kingston upon Thames,2012,7858
+Richmond upon Thames,2010,9217
+Kingston upon Thames,2013,7987
+Islington,2012,9266
+Hackney,2015,9565
+Waltham Forest,2015,12377
+Kingston upon Thames,2011,8028
+Havering,2009,8859
+Wandsworth,2013,13682
+Redbridge,2011,11294
+Newham,2011,12004
+Barking and Dagenham,2016,9341
+Newham,2010,11751
+Bromley,2016,12438
+Hammersmith and Fulham,2014,10002
+Hounslow,2011,8700
+Lewisham,2009,10746
+Tower Hamlets,2016,12214
+Bromley,2009,12703
+Sutton,2009,8121
+Kensington and Chelsea,2015,9049
+Bromley,2010,12590
+Southwark,2008,12471
+Hillingdon,2016,12178
+Brent,2013,16201
+Havering,2014,8834
+Haringey,2008,9080
+Newham,2008,11900
+Hackney,2009,9469
+Havering,2013,8844
+Barking and Dagenham,2009,9546
+Barnet,2014,19351
+Richmond upon Thames,2012,9321
+Richmond upon Thames,2011,9283
+Greenwich,2011,9615
+Merton,2010,9182
+Merton,2013,9228
+Tower Hamlets,2011,12093
+Hammersmith and Fulham,2013,10109
+Bexley,2010,12829
+Newham,2012,11914
+Bexley,2009,12667
+Ealing,2015,17509
+Enfield,2012,12136
+Southwark,2014,12593
+Brent,2011,16316
+Camden,2008,12109
+Ealing,2012,17550
+Hackney,2010,9311
+Hillingdon,2010,11992
+Wandsworth,2015,13533
+Waltham Forest,2010,12232
+Hammersmith and Fulham,2015,10064
+Redbridge,2012,11322
+Bromley,2012,12499
+Wandsworth,2016,13602
+Ealing,2011,17300
+Ealing,2010,17588
+Bromley,2015,12605
+Enfield,2011,12090
+Kingston upon Thames,2010,7937
+Barking and Dagenham,2010,9437
+Islington,2014,9232
+Sutton,2011,7975
+Richmond upon Thames,2016,9358
+Redbridge,2013,11246
+Enfield,2015,12202
+Bromley,2014,12476
+Barking and Dagenham,2013,9454
+Greenwich,2012,9422
+Redbridge,2010,11452
+Lewisham,2015,10780
+Hillingdon,2012,11755
+Westminster,2013,10184
+Tower Hamlets,2008,12314
+Hammersmith and Fulham,2012,10010
+Brent,2014,16335
+Merton,2012,9478
+Enfield,2014,12168
+Kingston upon Thames,2008,7879
+Hillingdon,2013,12029
+Waltham Forest,2009,12300
+Barnet,2008,19027
+Hounslow,2012,8932
+Hounslow,2015,8745
+City of London,2009,328
+Sutton,2013,8234
+Tower Hamlets,2014,12134
+Haringey,2012,9066
+Lewisham,2010,10726
+Bexley,2016,12703
+Wandsworth,2010,13678
+Hammersmith and Fulham,2011,10078
+Greenwich,2009,9666
+Westminster,2014,10195
+Islington,2008,9328
+Redbridge,2008,11399
+Lewisham,2013,10701
+Bexley,2011,12751
+Tower Hamlets,2010,12215
+Waltham Forest,2012,12396
+Hammersmith and Fulham,2016,9966
+City of London,2008,317
+Hounslow,2016,8679
+Barking and Dagenham,2011,9357
+Lambeth,2009,11624
+Kensington and Chelsea,2013,9013
+Hillingdon,2009,11955
+Ealing,2014,17345
+Islington,2009,9258
+Sutton,2016,8174
+Bromley,2011,12688
+Enfield,2013,12004
+Haringey,2014,9097
+Lewisham,2008,10851
+Westminster,2009,10132
+Hounslow,2008,8836
+Richmond upon Thames,2015,9163
+Barnet,2010,19110
+Kingston upon Thames,2016,7919
+Islington,2016,9062
+Croydon,2013,14380
+Croydon,2012,14355
+Enfield,2009,12267
+Tower Hamlets,2015,12329
+City of London,2015,313
+Southwark,2010,12657
+Wandsworth,2012,13526
+Tower Hamlets,2009,12252
+Richmond upon Thames,2009,9189
+Waltham Forest,2011,12400
+Barking and Dagenham,2014,9532
+City of London,2012,330
+Bexley,2014,12598
+Merton,2011,9265
+Hackney,2013,9663
+Havering,2016,8906
+Westminster,2010,10137
+Kingston upon Thames,2015,7982
+Haringey,2010,9253
+Bexley,2015,12755
+Merton,2008,9176
+Hammersmith and Fulham,2009,10044
+Redbridge,2016,11334
+Bromley,2013,12548
+Lewisham,2011,10813
+Brent,2012,16195
+Greenwich,2008,9665
+Tower Hamlets,2012,12288
+Haringey,2013,9094
+Kensington and Chelsea,2009,9195
+Islington,2011,9207
+Barnet,2011,19425
+Hackney,2012,9555
+Croydon,2011,14236
+Greenwich,2014,9555
+Ealing,2009,17438
+Harrow,2013,11598
+Islington,2013,9238
+Bexley,2013,12773
+Redbridge,2015,11431
+Hackney,2016,9701
+Southwark,2009,12640
+Waltham Forest,2014,12343
+Croydon,2016,14253
+Merton,2014,9372
+Merton,2016,9257
+Kensington and Chelsea,2008,9122
+City of London,2016,326
+Greenwich,2015,9621
+Lambeth,2011,11670
+Hounslow,2010,8775
+Bexley,2008,12831
+Barking and Dagenham,2008,9496
+Kensington and Chelsea,2012,9079
+Haringey,2016,9130
+Westminster,2016,10139
+Ealing,2013,17355
+Barnet,2012,19103
+Wandsworth,2011,13599
+Camden,2009,12037
+Hounslow,2014,8666
+Barnet,2016,19120
+Lambeth,2008,11622
+Southwark,2013,12407
+Camden,2013,11913
+City of London,2011,310
+Islington,2010,9300
+Southwark,2016,12531
+Sutton,2015,7952
+Merton,2015,9279
+Newham,2016,11958
+Southwark,2015,12573
+Havering,2012,8914
+Croydon,2014,14348
+Waltham Forest,2013,12384
+Croydon,2008,14292
+Harrow,2015,11530
+Havering,2010,8968
+Merton,2009,9303
+Sutton,2008,8103
+Hammersmith and Fulham,2010,10035
+null,null,43
+Wandsworth,2014,13546
+Harrow,2009,11603
+Kensington and Chelsea,2014,8947
+Newham,2014,11790
+Lambeth,2014,11550
+Newham,2015,11966
+Hillingdon,2011,11848
+Brent,2015,16238
+Harrow,2014,11680
+Enfield,2008,12314
+Waltham Forest,2008,12348
+Richmond upon Thames,2008,9121
+Camden,2011,12009
+Harrow,2008,11511
+Brent,2009,16232
+Wandsworth,2008,13580
+Camden,2016,11928
+Redbridge,2009,11375
+Ealing,2016,17523
+Haringey,2011,9106
+Hammersmith and Fulham,2008,9955
+Greenwich,2016,9446
+Croydon,2009,14416
+Westminster,2008,10138
+Harrow,2016,11682
+Havering,2008,8939
+Hackney,2014,9565
+Lewisham,2016,10744
+Hillingdon,2008,12035
+Sutton,2012,7908
+Havering,2015,8966
+Kensington and Chelsea,2010,9182
+Ealing,2008,17300
+Enfield,2016,12249
+Lewisham,2012,10859
+Waltham Forest,2016,12290
+Richmond upon Thames,2014,9115
+City of London,2014,320
+Wandsworth,2009,13496
+Hackney,2011,9628
+Camden,2015,11960
+Camden,2014,11955
+Harrow,2012,11559
+Hounslow,2009,8860

@@ -1,0 +1,10 @@
+year,month,major_category,count(value)
+2011,7,Burglary,2411
+2015,6,Theft and Handling,8921
+2013,10,Violence Against the Person,7109
+2009,5,Drugs,2685
+2013,1,Drugs,2622
+2010,5,Drugs,2638
+2011,4,Other Notifiable Offences,1768
+2013,5,Robbery,2095
+2014,5,Robbery,2104

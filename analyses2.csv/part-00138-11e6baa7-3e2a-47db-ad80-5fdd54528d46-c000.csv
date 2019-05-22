@@ -1,0 +1,5 @@
+year,month,major_category,count(value)
+2015,7,Burglary,2348
+2011,1,Burglary,2337
+2009,10,Sexual Offences,265
+2014,6,Sexual Offences,283

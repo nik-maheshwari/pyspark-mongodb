@@ -1,0 +1,11 @@
+year,month,major_category,count(value)
+2012,12,Burglary,2338
+2012,5,Burglary,2287
+2016,6,Burglary,2403
+2015,7,Criminal Damage,4562
+2013,6,Criminal Damage,4688
+2010,6,Violence Against the Person,7113
+2010,1,Sexual Offences,246
+2009,2,Robbery,2110
+2015,3,Sexual Offences,239
+2011,8,Sexual Offences,233

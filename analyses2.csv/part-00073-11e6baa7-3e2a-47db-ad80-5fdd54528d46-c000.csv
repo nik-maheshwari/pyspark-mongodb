@@ -1,0 +1,12 @@
+year,month,major_category,count(value)
+2012,1,Burglary,2409
+2008,12,Criminal Damage,4518
+2011,4,Criminal Damage,4666
+2008,9,Criminal Damage,4660
+2010,3,Violence Against the Person,7277
+2010,8,Drugs,2703
+2010,1,Other Notifiable Offences,1729
+2015,3,Other Notifiable Offences,1774
+2008,12,Robbery,2150
+2013,8,Robbery,2018
+2013,3,Fraud or Forgery,525

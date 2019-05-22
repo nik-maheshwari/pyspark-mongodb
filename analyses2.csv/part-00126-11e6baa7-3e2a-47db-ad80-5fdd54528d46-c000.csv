@@ -1,0 +1,11 @@
+year,month,major_category,count(value)
+2016,9,Burglary,2395
+2009,11,Burglary,2352
+2011,8,Theft and Handling,8876
+2010,4,Theft and Handling,8866
+2008,10,Theft and Handling,8957
+2016,7,Criminal Damage,4649
+2009,11,Violence Against the Person,7220
+2016,2,Other Notifiable Offences,1697
+2016,4,Robbery,2125
+2009,2,Sexual Offences,256

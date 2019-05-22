@@ -1,0 +1,10 @@
+year,month,major_category,count(value)
+2015,2,Criminal Damage,4779
+2016,11,Drugs,2593
+2010,11,Drugs,2596
+2016,1,Drugs,2655
+2010,3,Robbery,2112
+2009,10,Robbery,2078
+2011,9,Fraud or Forgery,549
+2009,11,Fraud or Forgery,524
+2014,4,Fraud or Forgery,503

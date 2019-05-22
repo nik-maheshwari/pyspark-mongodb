@@ -1,0 +1,9 @@
+year,month,major_category,count(value)
+2015,3,Burglary,2331
+2010,12,Burglary,2364
+2010,7,Violence Against the Person,7077
+2014,8,Violence Against the Person,7224
+2015,3,Drugs,2618
+2016,8,Drugs,2667
+2011,8,Drugs,2682
+2015,1,Fraud or Forgery,524

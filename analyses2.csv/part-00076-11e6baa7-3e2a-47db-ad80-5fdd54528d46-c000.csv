@@ -1,0 +1,6 @@
+year,month,major_category,count(value)
+2014,1,Burglary,2342
+2010,5,Sexual Offences,262
+2011,10,Other Notifiable Offences,1741
+2012,1,Fraud or Forgery,555
+2012,8,Sexual Offences,257

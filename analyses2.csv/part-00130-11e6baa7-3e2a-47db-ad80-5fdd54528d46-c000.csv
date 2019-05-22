@@ -1,0 +1,7 @@
+year,month,major_category,count(value)
+2010,7,Burglary,2312
+2014,8,Theft and Handling,8908
+2014,10,Theft and Handling,8935
+2009,11,Theft and Handling,9000
+2014,9,Violence Against the Person,7022
+2011,1,Robbery,2121

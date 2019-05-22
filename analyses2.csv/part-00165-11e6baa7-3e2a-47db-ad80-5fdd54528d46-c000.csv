@@ -1,0 +1,13 @@
+year,month,major_category,count(value)
+2013,3,Burglary,2324
+2011,11,Burglary,2374
+2016,1,Violence Against the Person,7183
+2014,5,Violence Against the Person,7091
+2014,2,Violence Against the Person,7018
+2012,7,Drugs,2594
+2015,9,Sexual Offences,251
+2010,5,Other Notifiable Offences,1759
+2011,1,Other Notifiable Offences,1706
+2010,3,Other Notifiable Offences,1729
+2008,10,Fraud or Forgery,497
+2011,1,Fraud or Forgery,565
